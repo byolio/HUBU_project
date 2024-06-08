@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/dinner.png</file>
+        <file>img/home.png</file>
+        <file>img/mine.png</file>
+        <file>img/order.png</file>
+        <file>img/search.png</file>
+        <file>img/windowIcon.png</file>
+        <file>img/dessert.png</file>
+        <file>img/drink.png</file>
+        <file>img/mainCourse.png</file>
+        <file>img/mainBg.png</file>
+        <file>img/choose.png</file>
+        <file>img/cacaPrice.png</file>
+        <file>img/cakePrice.png</file>
+        <file>img/chickenPrice.png</file>
+        <file>img/shrimpPrice.png</file>
+        <file>img/countBg.png</file>
+        <file>img/weChat.png</file>
+    </qresource>
+</RCC>
